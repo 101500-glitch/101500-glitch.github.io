@@ -1,0 +1,359 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Lana de oveja como material aislante</title>
+
+<style>
+
+html{
+scroll-behavior:smooth;
+}
+
+body{
+font-family:Arial;
+margin:0;
+background:linear-gradient(to bottom,#dfe9f3,#ffffff);
+}
+
+/* ENCABEZADO */
+
+header{
+background-image:url('https://images.unsplash.com/photo-1500595046743-cd271d694d30?q=80&w=1200');
+background-size:cover;
+background-position:center;
+text-align:center;
+color:white;
+padding:90px;
+}
+
+header h1{
+background-color:rgba(0,0,0,0.5);
+display:inline-block;
+padding:15px;
+border-radius:12px;
+font-size:45px;
+}
+
+/* MENÚ */
+
+nav{
+background-color:#2f4f4f;
+text-align:center;
+padding:18px;
+position:sticky;
+top:0;
+z-index:1000;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin:15px;
+font-size:18px;
+transition:0.3s;
+}
+
+nav a:hover{
+background-color:white;
+color:#2f4f4f;
+padding:8px;
+border-radius:8px;
+}
+
+/* SECCIONES */
+
+section{
+background-color:white;
+width:80%;
+margin:30px auto;
+padding:25px;
+border-radius:18px;
+box-shadow:0px 5px 15px rgba(0,0,0,0.2);
+transition:0.3s;
+}
+
+section:hover{
+transform:scale(1.01);
+}
+
+h2{
+text-align:center;
+color:#2f4f4f;
+font-size:32px;
+}
+
+p{
+text-align:justify;
+line-height:1.8;
+font-size:18px;
+}
+
+img{
+width:100%;
+border-radius:15px;
+margin-top:20px;
+box-shadow:0px 0px 10px gray;
+}
+
+/* TABLA */
+
+table{
+width:100%;
+border-collapse:collapse;
+margin-top:20px;
+}
+
+th, td{
+border:2px solid #2f4f4f;
+padding:12px;
+text-align:center;
+font-size:18px;
+}
+
+th{
+background-color:#2f4f4f;
+color:white;
+}
+
+/* VIDEO */
+
+video{
+width:100%;
+border-radius:15px;
+margin-top:20px;
+box-shadow:0px 0px 10px gray;
+}
+
+/* INTEGRANTES */
+
+#integrantes{
+text-align:center;
+}
+
+.contenedor-personas{
+display:flex;
+justify-content:center;
+flex-wrap:wrap;
+gap:25px;
+margin-top:20px;
+}
+
+.persona{
+text-align:center;
+}
+
+.persona img{
+width:90px;
+height:90px;
+object-fit:cover;
+border-radius:50%;
+border:3px solid #2f4f4f;
+box-shadow:0px 0px 8px gray;
+}
+
+.persona h3{
+margin-top:8px;
+color:#2f4f4f;
+font-size:17px;
+}
+
+/* FOOTER */
+
+footer{
+background-color:#2f4f4f;
+color:white;
+text-align:center;
+padding:20px;
+margin-top:40px;
+font-size:18px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Lana de oveja como material aislante</h1>
+</header>
+
+<nav>
+<a href="#inicio">Inicio</a>
+<a href="#b">Beneficios</a>
+<a href="#c">Eficiencia</a>
+<a href="#d">Uso</a>
+<a href="#materias">Materias</a>
+<a href="#tabla">Tabla</a>
+<a href="#video">Video</a>
+<a href="#f">Conclusión</a>
+<a href="#integrantes">Integrantes</a>
+</nav>
+
+<section id="inicio">
+
+<h2>Introducción del proyecto</h2>
+
+<p>
+Este proyecto analiza la lana de oveja como material aislante natural para
+viviendas. Se investigaron sus propiedades térmicas, acústicas y ecológicas,
+comparándolas con otros materiales convencionales. Además, se realizaron
+pruebas y simulaciones para observar su eficiencia en diferentes condiciones.
+</p>
+
+<img src="https://images.unsplash.com/photo-1527153857715-3908f2bae5e8?q=80&w=1200">
+
+</section>
+
+<section id='b'>
+
+<h2>Beneficios y su importancia</h2>
+
+<p>
+La lana de oveja es un material aislante natural de alto rendimiento,
+valorado por su capacidad higroscópica (regulación de humedad), baja
+conductividad térmica y sostenibilidad. Es ideal para construcciones ecológicas
+por ser biodegradable, hipoalergénica y capaz de absorber hasta el 50% de su
+peso en agua sin perder capacidad aislante.
+</p>
+
+<img src="https://images.unsplash.com/photo-1516467508483-a7212febe31a?q=80&w=1200">
+
+</section>
+
+<section id='c'>
+
+<h2>Eficiencia en viviendas como material aislante</h2>
+
+<p>
+La lana de oveja es un material aislante natural de alta eficiencia, con una
+conductividad térmica excelente (aproximadamente 0,038 – 0,054 W/mK),
+comparable o superior a la lana mineral. Destaca por ser higroscópica,
+duradera, sostenible y capaz de absorber hasta el 30%-50% de su peso
+en agua sin perder sus propiedades aislantes.
+</p>
+
+<img src="https://images.unsplash.com/photo-1448630360428-65456885c650?q=80&w=1200">
+
+</section>
+
+<section id='d'>
+
+<h2>Uso en la vivienda</h2>
+
+<p>
+La lana de oveja es un material aislante natural, renovable y altamente
+eficiente para viviendas, destacado por su baja conductividad térmica y
+capacidad de regular la humedad. Se utiliza principalmente en techos,
+muros y cubiertas, ofreciendo aislamiento térmico y acústico superior.
+</p>
+
+<img src="https://images.unsplash.com/photo-1512917774080-9991f1c4c750?q=80&w=1200">
+
+</section>
+
+<section id="materias">
+
+<h2>Materias involucradas</h2>
+
+<p>
+<b>Taller de ciencias:</b> Investigación de materiales aislantes y pruebas
+de temperatura.
+</p>
+
+<p>
+<b>Matemáticas:</b> Registro y comparación de datos obtenidos en las maquetas.
+</p>
+
+<p>
+<b>Cultura digital:</b> Desarrollo de la página web y organización digital
+de la información.
+</p>
+
+<p>
+<b>Conservación de la materia:</b> Uso de materiales renovables y sostenibles
+para reducir el impacto ambiental.
+</p>
+
+<img src="https://images.unsplash.com/photo-1509062522246-3755977927d7?q=80&w=1200">
+
+</section>
+
+<section id="tabla">
+
+<h2>Tabla de temperaturas</h2>
+
+<img src="https://100049-stack.github.io/TablaSpellcaster.jpeg">
+
+</section>
+
+<section id="video">
+
+<h2>Video de la simulación</h2>
+
+<video controls>
+<source src="https://100049-stack.github.io/VideoChaverrinChaverran.mp4" type="video/mp4">
+</video>
+
+</section>
+
+<section id='f'>
+
+<h2>Conclusión</h2>
+
+<p>
+La lana de oveja es un aislante térmico natural de alto rendimiento,
+superior en sostenibilidad y manejo de humedad a las opciones minerales.
+Su estructura higroscópica le permite absorber humedad sin perder eficiencia,
+siendo ideal para la bioconstrucción por ser renovable, biodegradable y no
+tóxica.
+</p>
+
+<img src="https://images.unsplash.com/photo-1484557985045-edf25e08da73?q=80&w=1200">
+
+</section>
+
+<section id="integrantes">
+
+<h2>Integrantes</h2>
+
+<div class="contenedor-personas">
+
+<div class="persona">
+<img src="https://100049-stack.github.io/Kazajistan.jpeg">
+<h3>Snehider</h3>
+</div>
+
+<div class="persona">
+<img src="https://100049-stack.github.io/Carla.jpeg">
+<h3>Carla</h3>
+</div>
+
+<div class="persona">
+<img src="https://100049-stack.github.io/Anco.jpeg">
+<h3>Anco</h3>
+</div>
+
+<div class="persona">
+<img src="https://100049-stack.github.io/Leonor.jpeg">
+<h3>Leonor</h3>
+</div>
+
+<div class="persona">
+<img src="https://100049-stack.github.io/Ulises.jpeg">
+<h3>Ulises</h3>
+</div>
+
+</div>
+
+</section>
+
+<footer>
+Página realizada por el equipo de lana de oveja / 10A /
+</footer>
+
+</body>
+</html>
